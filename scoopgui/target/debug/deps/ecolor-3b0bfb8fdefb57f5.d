@@ -1,0 +1,11 @@
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\libecolor-3b0bfb8fdefb57f5.rmeta: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\color32.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva_gamma.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\rgba.rs
+
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\libecolor-3b0bfb8fdefb57f5.rlib: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\color32.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva_gamma.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\rgba.rs
+
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\ecolor-3b0bfb8fdefb57f5.d: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\color32.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva_gamma.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\rgba.rs
+
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\lib.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\color32.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva_gamma.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\hsva.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ecolor-0.22.0\src\rgba.rs:

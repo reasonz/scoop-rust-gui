@@ -1,0 +1,11 @@
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\liblitemap-54f5885cecacb405.rmeta: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src/lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\map.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\mod.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\slice_impl.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\vec_impl.rs
+
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\liblitemap-54f5885cecacb405.rlib: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src/lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\map.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\mod.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\slice_impl.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\vec_impl.rs
+
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\deps\litemap-54f5885cecacb405.d: C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src/lib.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\map.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\mod.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\slice_impl.rs C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\vec_impl.rs
+
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src/lib.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\map.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\mod.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\slice_impl.rs:
+C:\Users\keben\.cargo\registry\src\index.crates.io-6f17d22bba15001f\litemap-0.7.5\src\store\vec_impl.rs:

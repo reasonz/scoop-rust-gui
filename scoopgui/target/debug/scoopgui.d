@@ -1,0 +1,1 @@
+C:\Users\keben\Documents\mycode\scoopgui\scoopgui\target\debug\scoopgui.exe: C:\Users\keben\Documents\mycode\scoopgui\scoopgui\src\main.rs C:\Users\keben\Documents\mycode\scoopgui\scoopgui\src\scoop.rs C:/Windows/Fonts/msyh.ttc
